@@ -1,0 +1,12 @@
+---
+:id: 83867605
+:submitters:
+- :name: '140362222'
+  :email: tanadol_lamlertprasertkul@brown.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-07-16 00:39:16.174531000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-07-15 17:39:16.174531000 Z
+:status: processed
+:score: 18.0

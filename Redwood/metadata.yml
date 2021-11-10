@@ -1,0 +1,14 @@
+---
+:id: 84715794
+:submitters:
+- :name: '140362222'
+  :email: tanadol_lamlertprasertkul@brown.edu
+- :name: B01686151
+  :email: sophia_liu@brown.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-08-07 18:07:05.886816000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-08-07 11:07:05.886816000 Z
+:status: processed
+:score: 100.0
